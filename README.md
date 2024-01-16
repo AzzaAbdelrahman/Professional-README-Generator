@@ -14,9 +14,10 @@
   
   ## Installation 
   test install steps
-  <video src="demo.mp4" controls title="Title"></video>
   ## Usage 
   test usage steps
+  ![Alt text](assets/Screenshot1.png)
+  ![Alt text](assets/Screenshot2.png)
 
   ## License 
   This project is license under MIT
