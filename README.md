@@ -14,8 +14,7 @@
   
   ## Installation 
   test install steps
-  https://app.screencastify.com/v3/watch/cdCEe47actcg94Knozhi
-
+  <video src="demo.mp4" controls title="Title"></video>
   ## Usage 
   test usage steps
 
